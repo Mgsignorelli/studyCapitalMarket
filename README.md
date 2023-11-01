@@ -1,2 +1,5 @@
 # CapitalMarket_notes
-Capital Market Notes
+
+* Stock Market
+* Bonds
+* ForexExchange
