@@ -1,5 +1,7 @@
 # CapitalMarket_notes
 
-* Stock Market
+* Finance
+* Equity
 * Bonds
 * ForexExchange
+* Mutual Fund
