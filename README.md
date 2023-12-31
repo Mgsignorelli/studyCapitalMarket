@@ -1,7 +1,8 @@
 # CapitalMarket_notes
 
-* Finance
-* Equity
-* Bonds
-* ForexExchange
-* Mutual Fund
+* [Equity](Equity.md)
+* [Finance](Finance.md)
+* [ForexExchange](ForexExchange.md)
+* [InvoiceFactoring](InvoiceFactoring.md)
+* [MoneyMarket](MoneyMarket.md)
+* [MutualFund](MutualFund.md)
